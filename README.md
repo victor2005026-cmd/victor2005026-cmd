@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/kauêmarini" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:kauemarinil@gmail.com" target="_blank">
+<a href="mailto:victor2005026@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 </div>
@@ -35,21 +35,21 @@ My goal is to turn complex ideas into digital reality, always seeking to learn a
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMarini&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEsteves&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueMarini/KaueMarini/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueMarini/KaueMarini/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/KaueMarini/KaueMarini/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorEsteves/VictorEsteves/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorEsteves/VictorEsteves/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/VictorEsteves/VictorEsteves/output/github-snake.svg" />
   </picture>
 </p>
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/kauêmarini" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:kauemarinil@gmail.com" target="_blank">
+<a href="mailto:Victor2005026@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 </div>
@@ -82,7 +82,7 @@ My goal is to turn complex ideas into digital reality, always seeking to learn a
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMarini&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEsteves&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
 </p>
 
 <p align="center">
