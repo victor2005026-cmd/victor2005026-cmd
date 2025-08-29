@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/kauêmarini" target="_blank">
+<a href="https://www.linkedin.com/in/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:victor2005026@gmail.com" target="_blank">
@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">
-Kaue Marini
+
 <br>
 </h1>
 <h3 align="center">Full Stack Developer.</h3>
@@ -55,7 +55,7 @@ My goal is to turn complex ideas into digital reality, always seeking to learn a
 </div>
 
 <h1 align="center">
-Kaue Marini
+
 <br>
 </h1>
 <h3 align="center">Full Stack Developer.</h3>
