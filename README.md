@@ -18,8 +18,6 @@ My goal is to turn complex ideas into digital reality, always seeking to learn a
 <i>And knowledge of <b>Low-Code</b> platforms and <b>APIs RESTful</b> development.</i>
 </p>
 
-<p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEsteves&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
 </p>
 
