@@ -121,27 +121,22 @@ Loja virtual full stack com **autenticação Google OAuth**, carrinho, **pagamen
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victor2005026-cmd&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor2005026-cmd&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ### 🐍 Contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victor2005026-cmd/victor2005026-cmd/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victor2005026-cmd/victor2005026-cmd/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/victor2005026-cmd/victor2005026-cmd/output/github-snake.svg" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victor2005026-cmd/victor2005026-cmd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victor2005026-cmd/victor2005026-cmd/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/victor2005026-cmd/victor2005026-cmd/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
-  📫 **Quer entrar em contato?** Me chama no <a href="https://www.linkedin.com/in/victor-rodrigues-esteves/">LinkedIn</a> ou manda um e-mail para **victor2005026@gmail.com**
+
+📫 **Quer entrar em contato?** Me chama no [LinkedIn](https://www.linkedin.com/in/victor-rodrigues-esteves/) ou manda um e-mail para **victor2005026@gmail.com**
+
 </div>
