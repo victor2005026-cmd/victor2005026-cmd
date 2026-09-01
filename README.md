@@ -121,7 +121,17 @@ Loja virtual full stack com **autenticação Google OAuth**, carrinho, **pagamen
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victor2005026-cmd&show_icons=true&theme=radial" alt="Victor Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor2005026-cmd&layout=compact&theme=radial" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victor2005026-cmd&show_icons=true&theme=radial" alt="Victor Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor2005026-cmd&layout=compact&theme=radial" alt="Linguagens mais usadas" />
+</p>
 
 <div align="center">
 
