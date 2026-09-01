@@ -149,6 +149,8 @@ Loja virtual full stack com **autenticação Google OAuth**, carrinho, **pagamen
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/victor2005026-cmd/victor2005026-cmd/output/github-snake.svg" alt="Snake animation" />
+</div>
 
 📫 **Quer entrar em contato?** Me chama no [LinkedIn](https://www.linkedin.com/in/victor-rodrigues-esteves/) ou manda um e-mail para **victor2005026@gmail.com**
 
