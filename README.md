@@ -128,15 +128,7 @@ Loja virtual full stack com **autenticação Google OAuth**, carrinho, **pagamen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor2005026-cmd&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victor2005026-cmd&show_icons=true&theme=radial" alt="Victor Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor2005026-cmd&layout=compact&theme=radial" alt="Linguagens mais usadas" />
-</p>
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=victor2005026-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor2005026-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
