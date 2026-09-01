@@ -132,7 +132,7 @@ Loja virtual full stack com **autenticação Google OAuth**, carrinho, **pagamen
 
 ---
 
-### 🐍 Contribuições![Snake animation](https://github.com/victor2005026-cmd/victor2005026-cmd/blob/output/github-snake.svg)
+### 🐍 Contribuições
 
 <div align="center">
 
