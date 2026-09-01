@@ -1,27 +1,31 @@
-👨‍💻 About Me:
-<p>
-I am an Information Systems student with a solid background as a Full Stack Developer. My journey includes innovative experiences at Fly Comunicação, TAKEOFF, and in freelance projects, where I have built and enhanced robust web applications.
-</p>
-<p>
-My goal is to turn complex ideas into digital reality, always seeking to learn and apply the most efficient technologies. I have advanced English skills and love collaborating in dynamic teams.
-</p>
+# Olá! Eu sou o Victor Rodrigues 👋
 
-🛠️ My Skills:
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,mysql,nodejs,py,react,kotlin" />
-</a>
-</p>
+Desenvolvedor full-stack em formação, focado em **React**, **Next.js**, **TypeScript** e **Supabase**.
 
+Construo projetos do zero — do banco de dados ao deploy — com foco em resolver problemas reais: lojas online, sistemas de vendas e cardápios digitais.
 
-</p>
-<i>And knowledge of <b>Low-Code</b> platforms and <b>APIs RESTful</b> development.</i>
-</p>
+## 🚀 Projetos em destaque
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueMarini/KaueMarini/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueMarini/KaueMarini/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/KaueMarini/KaueMarini/output/github-snake.svg" />
-  </picture>
-</p>
+| Projeto | O que faz | Stack |
+|---------|-----------|-------|
+| [loja-camisa-online](https://github.com/victor2005026-cmd/loja-camisa-online) | Loja virtual com catálogo, carrinho, Pix e painel admin | Next.js · TypeScript · Tailwind · Supabase |
+| [site-doces-mae](https://github.com/victor2005026-cmd/site-doces-mae) | Cardápio digital com pedidos online e painel admin | React · JavaScript · Supabase · Mercado Pago |
+| [vendas-camisas](https://github.com/victor2005026-cmd/vendas-camisas) | Controle de vendas colaborativo, mobile-first, PWA | React · TypeScript · Vite · Supabase |
+| [GramaSp](https://github.com/victor2005026-cmd/GramaSp) | Site de gerenciamento e venda de gramas | React · JavaScript |
+
+## 🛠️ Tecnologias
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
+</div>
+
+## 📫 Contato
+
+- GitHub: [@victor2005026-cmd](https://github.com/victor2005026-cmd)
