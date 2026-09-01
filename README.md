@@ -151,3 +151,28 @@ Loja virtual full stack com **autenticação Google OAuth**, carrinho, **pagamen
 📫 **Quer entrar em contato?** Me chama no [LinkedIn](https://www.linkedin.com/in/victor-rodrigues-esteves/) ou manda um e-mail para **victor2005026@gmail.com**
 
 </div>
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # roda a cada 12 horas
+  workflow_dispatch:  # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: victor2005026-cmd
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
